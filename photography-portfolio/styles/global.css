@@ -6,3 +6,8 @@ html {
   scroll-behavior: smooth;
   font-family: "Raleway", sans-serif;
 }
+
+.custom-img{
+  background-image: url('https://unsplash.com/photos/a-person-looking-out-from-a-cave-in-the-desert-9bE0LlCrX2M?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash');
+}
+  
