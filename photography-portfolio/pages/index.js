@@ -10,7 +10,7 @@ export default function Home() {
         <title>Photography Next App</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <Hero/>   
+      <Hero heading='Nauth Photography' message='I photograph real moments frozen in time.'/>   
 
     </div>
   );
