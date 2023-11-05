@@ -7,7 +7,11 @@ const Slider = ({slides}) => {
         <h1>Gallery</h1>
         <div>
             {SliderData.map((slide, index) => {
-                return <img src={slide.image} alt='/'/>;
+                return <Image 
+                src={slide.image} 
+                alt='/' width='1440' 
+                height='600' 
+                objectFit='cover'/>;
                 })}
         </div>
     </div>
