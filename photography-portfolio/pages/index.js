@@ -9,10 +9,10 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Photography Next App</title>
+        <title>Nick Nauth</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <Hero heading='Nauth Photography' message="Capturing the Essence of You: Unveiling Life's Moments in Every Frame."/>   
+      <Hero heading='Nick Nauth Photography' message="Capturing the Essence of You: Unveiling Life's Moments in Every Frame."/>   
     <Slider slides={SliderData}/>
     <Instagram/>
     </div>
